@@ -1,6 +1,8 @@
--- Módulo 3 - BodegaTech
--- Archivo: bodegatech_inventario.sql
+-- ══════════════════════════════════════════
+-- BodegaTech — Script de Inventario
 -- Autor: Micaela Puebla
+-- Fecha: 2026-08-13
+-- ══════════════════════════════════════════
 
 -- ── SECCIÓN DDL ──
 -- Limpieza previa: permite re-ejecutar el script sin errores
